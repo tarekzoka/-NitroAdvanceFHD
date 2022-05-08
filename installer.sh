@@ -1,14 +1,7 @@
 #!/bin/bash
 ######################################################################################
 ## Command=wget https://raw.githubusercontent.com/tarekzoka/NitroAdvanceFHD/main/installer.sh -O - | /bin/sh
-##
-###########################################
-###########################################
-version=5.2
-description="add new interface PURPLE(NEW) RED(NEW) !!!"
-#########################################################
-
-#########################################################
+####################
 PACKAGE_DIR='NitroAdvanceFHD/main'
 MY_FILE="NitroAdvanceFHD.tar.gz"
 #########################################################
