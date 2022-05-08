@@ -7,6 +7,8 @@
 echo
 opkg install --force-overwrite  https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/enigma2-plugin_skin.NitroAdvanceFHD-V5.2_all.ipk?raw=true
 wait
+opkg install --force-overwrite  https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/enigma2-skin-metrixconfluence-adrenalinnrw_1_0_all.ipk?raw=true
+wait
 exit#########################################################
 
 MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/"
@@ -39,7 +41,7 @@ if [ -f $MY_TMP_FILE ]; then
 	if [ $MY_RESULT -eq 0 ]; then
         echo "#########################################################"
         echo "#  NitroAdvanceFHD Skin $version INSTALLED SUCCESSFULLY      #"
-        echo "#                BY BIKO - support on                   #"
+        echo "#                BY TAREK_TT - support on                   #"
         echo "#   https://www.tunisia-sat.com/forums/forums/182/      #"
         echo "#########################################################"
         echo "#           your Device will RESTART Now                #"
