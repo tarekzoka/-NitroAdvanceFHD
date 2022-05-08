@@ -42,7 +42,7 @@ if [ -f $MY_TMP_FILE ]; then
         echo "#########################################################"
         echo "#  NitroAdvanceFHD Skin $version INSTALLED SUCCESSFULLY      #"
         echo "#                BY TAREK_TT - support on                   #"
-        echo "#   https://www.tunisia-sat.com/forums/forums/182/      #"
+        echo "#   .................................................      #"
         echo "#########################################################"
         echo "#           your Device will RESTART Now                #"
         echo "#########################################################"		
