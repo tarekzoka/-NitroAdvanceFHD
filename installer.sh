@@ -13,7 +13,7 @@ PACKAGE_DIR='NitroAdvanceFHD/main'
 MY_FILE="NitroAdvanceFHD.tar.gz"
 #########################################################
 
-MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/"
+MY_MAIN_URL="https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/NitroadvanceFHD_v5.2.tar.gz?raw=true"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
 
