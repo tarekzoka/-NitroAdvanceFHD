@@ -1,10 +1,12 @@
 #!/bin/bash
 ######################################################################################
 ## Command=wget https://raw.githubusercontent.com/tarekzoka/NitroAdvanceFHD/main/installer.sh -O - | /bin/sh
-####################
-PACKAGE_DIR='NitroAdvanceFHD/main'
-MY_FILE="NitroAdvanceFHD.tar.gz"
-#########################################################
+###########################################
+###########################################
+#!/bin/sh
+echo
+opkg install --force-overwrite  https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/NitroadvanceFHD_v5.2.tar.gz?raw=true
+wait
 
 MY_MAIN_URL="https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/NitroadvanceFHD_v5.2.tar.gz?raw=true"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
