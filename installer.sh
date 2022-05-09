@@ -10,7 +10,7 @@ wait
 opkg install --force-overwrite  https://github.com/tarekzoka/NitroAdvanceFHD/blob/main/enigma2-skin-metrixconfluence-adrenalinnrw_1_0_all.ipk?raw=true
 wait
 exit#########################################################
-
+#########################################################
 MY_MAIN_URL="https://raw.githubusercontent.com/tarekzoka/"
 MY_URL=$MY_MAIN_URL$PACKAGE_DIR'/'$MY_FILE
 MY_TMP_FILE="/tmp/"$MY_FILE
