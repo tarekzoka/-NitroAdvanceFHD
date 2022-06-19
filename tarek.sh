@@ -1,6 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/plugins/main/tarek.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/NitroAdvanceFHD/main/tarek.sh -O - | /bin/sh
 ###########################################
 ###########################################
 #!/bin/sh
@@ -49,6 +49,7 @@ if [ -f $MY_TMP_FILE ]; then
 wait
 sleep 2;
 exit 0
+
 
 
 
