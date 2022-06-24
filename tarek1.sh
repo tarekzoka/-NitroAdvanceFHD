@@ -5,7 +5,7 @@
 ###########################################
 #!/bin/sh
 echo
-opkg install --force-overwrite  https://drive.google.com/uc?id=1mlU3I5TE_Qg9a0JEEDbr_JH5howb6lok&export=download
+opkg install --force-overwrite  "https://drive.google.com/uc?id=1mlU3I5TE_Qg9a0JEEDbr_JH5howb6lok&export=download"
 wait
 sleep 2;
 #########################################################
