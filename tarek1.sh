@@ -1,7 +1,6 @@
 #!/bin/bash
 ######################################################################################
-## Command=wget https://raw.githubusercontent.com/tarekzoka/
-NitroAdvanceFHD/main/tarek1.sh -O - | /bin/sh
+## Command=wget https://raw.githubusercontent.com/tarekzoka/NitroAdvanceFHD/main/tarek1.sh -O - | /bin/sh
 ###########################################
 ###########################################
 #!/bin/sh
